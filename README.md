@@ -1,3 +1,3 @@
-# Das ist meine Internet-Seite einfach benutzten mit HTML und CSS
-Das ist meine Landing Page mit NTML und CSS [Link](https://artsiom-bohush.github.io/CV).
+# Das ist meine CV
+Das ist Landing Page mit HTML und CSS [Link](https://artsiom-bohush.github.io/CV).
 
